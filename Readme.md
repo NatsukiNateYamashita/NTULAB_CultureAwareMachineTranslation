@@ -1,5 +1,4 @@
 # Culture-Aware Machine Translation
-===
 
 ## Purpose
 Reduce the problem caused by cultural differences in cross-cultural communication.
