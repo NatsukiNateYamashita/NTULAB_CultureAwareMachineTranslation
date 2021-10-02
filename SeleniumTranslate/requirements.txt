@@ -1,0 +1,4 @@
+selenium==3.141.0
+webdriver_manager==3.2.2
+zhconv==1.4.1
+beautifulsoup4==4.10.0
