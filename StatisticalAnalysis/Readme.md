@@ -1,4 +1,4 @@
-# Analysis for Unaligned Words (Cont.)
+# Analysis for Unaligned Words
 
 ## Purpose
 Discover how the machine-translated and the human-translated dialogue texts are different
