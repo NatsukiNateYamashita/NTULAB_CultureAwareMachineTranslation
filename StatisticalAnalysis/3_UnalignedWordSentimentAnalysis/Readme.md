@@ -15,11 +15,11 @@ Therefore, we expect to extract important words by LIWC and to do a more valuabl
 + [CLIWC](https://cliwc.weebly.com/)
 + [JIWC](https://sociocom.naist.jp/jiwc-dictionary/)
 
-## What we do 
+## What we do
 In /LIWC_Analysis/
 + Get unaligned word counts from machine-translated and human-translated data with LIWCs
 + Test them and get the emotion categories with statistically significant differences in their word counts
-+ Analyze the words in each emotion category 
++ Analyze the words in each emotion category
 
 Also,
 + Annotate pragmatic marker labels on each the words (reference: Blum(1984))
@@ -28,7 +28,7 @@ Also,
     + more/less intence
         + more/less upgrader
         + more/less downgrader
-        + more/less specific / 
+        + more/less specific /
         + more/less respectful /  
         + more/less humble /  
     + add/rmv expect_sth_in_return
@@ -38,6 +38,9 @@ Also,
 Furthermore,
 In /LIWC_Analysis/PragmaticMarkerClassification/
 + Classify them by BERT
+
+## Usage
++ Run all each '.ipnyb' files
 
 ## Reference
 @article{article,
