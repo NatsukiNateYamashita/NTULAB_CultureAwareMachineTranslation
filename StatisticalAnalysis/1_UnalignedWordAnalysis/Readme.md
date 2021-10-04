@@ -12,3 +12,15 @@ We expect that the differences in the language uses of certain situations betwee
 
 ## What we do
 Analysis for the unaligned words and their POS
+
+## Usage
+```
+python create_datable
+```
+
++ Run all 'visualize_ranking_of_unalignedword_pos.ipynb'
++ Run all 'visualize_ranking_unalignedword_pos_by_relation.ipynb'
++ Run all 'visualize_num_of_unalignedword_by_each_category.ipynb'
++ Run all 'measure_sim_sentences_by_contextualized_embeddings.ipynb'
+
+Run other programs if you need
